@@ -1,0 +1,12 @@
+.vs
+.idea
+build
+game/*.exe
+game/*.ilk
+game/*.pdb
+game/*.dll
+demos/*.exe
+demos/*.ilk
+demos/*.pdb
+demos/*.dll
+out
